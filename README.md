@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👨‍💻 Adarsh Mishra
 
-<!--
-**Adarsh12225/Adarsh12225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer | MERN Stack Developer | Lifelong Learner**
 
-Here are some ideas to get you started:
+Hello there! 👋 I’m **Adarsh Mishra**, a passionate developer who loves turning ideas into working applications.
+I have a strong command over the **MERN stack** and I’m continuously exploring new technologies to build scalable and impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+- 💻 Skilled in **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- 🌱 Exploring **Cloud, DevOps, and System Design**
+- ♟️ Chess enthusiast – I believe strategy in chess is like writing clean, efficient code
+- 🎤 Passionate about **public speaking & knowledge sharing**
+- 🌍 Looking for **internship opportunities** to grow, learn, and contribute
+- 🛠️ Strong believer in **clean code, teamwork, and lifelong learning**
+
+---
+
+## 🛠️ Tech Stack
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh12225&show_icons=true&theme=dark" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh12225&theme=dark" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh12225&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 🔭 Pinned Projects (Top 3)
+
+### 1. [Weather App](https://github.com/Adarsh12225/project-weather)
+**Description:** A web app that fetches and displays real-time weather data using external APIs.
+**Tech:** React, Node.js, API integration
+**Demo:** *Add demo link if hosted*
+
+### 2. [Authentication System](https://github.com/Adarsh12225/authentication)
+**Description:** Secure authentication system with login, signup, and JWT-based sessions.
+**Tech:** Node.js, Express, MongoDB, JWT
+**Demo:** *Add demo link if hosted*
+
+### 3. [File Manager](https://github.com/Adarsh12225/File-Note-Manager)
+**Description:** A file manager tool to upload, organize, and manage files.
+**Tech:** React, Node.js, MongoDB
+**Demo:** *Add demo link if hosted*
+
+---
+
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-mishra-2aa936235)  
+- 📧 mishraadarsh12225@gmail.com  
+- 🏆 [LeetCode](https://leetcode.com/Adarsh12225)
+
+---
+
+⚡ *“Code is like chess – every move matters. I aim to make mine count.”*
