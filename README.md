@@ -49,22 +49,7 @@ I have a strong command over the **MERN stack** and I’m continuously exploring
 
 ---
 
-## 🔭 Pinned Projects (Top 3)
 
-### 1. [Weather App](https://github.com/Adarsh12225/project-weather)
-**Description:** A web app that fetches and displays real-time weather data using external APIs.
-**Tech:** React, Node.js, API integration
-**Demo:** *Add demo link if hosted*
-
-### 2. [Authentication System](https://github.com/Adarsh12225/authentication)
-**Description:** Secure authentication system with login, signup, and JWT-based sessions.
-**Tech:** Node.js, Express, MongoDB, JWT
-**Demo:** *Add demo link if hosted*
-
-### 3. [File Manager](https://github.com/Adarsh12225/File-Note-Manager)
-**Description:** A file manager tool to upload, organize, and manage files.
-**Tech:** React, Node.js, MongoDB
-**Demo:** *Add demo link if hosted*
 
 ---
 
