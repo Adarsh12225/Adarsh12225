@@ -1,6 +1,6 @@
 # 👨‍💻 Adarsh Mishra
 
-🚀 **Aspiring Software Developer |Django| MERN |SpringBoot| Flutter| Lifelong Learner**
+🚀 **Software Developer |Django| MERN |SpringBoot| Flutter| Lifelong Learner**
 
 Hello there! 👋 I’m **Adarsh Mishra**, a passionate developer who loves turning ideas into working applications.
 I have a strong command over the **MERN stack** and I’m continuously exploring new technologies to build scalable and impactful solutions.
@@ -8,7 +8,7 @@ I have a strong command over the **MERN stack** and I’m continuously exploring
 ---
 
 ## 💡 About Me
-- 💻 Skilled in **MERN Stack** (MongoDB, Express.js, React, Node.js,java , python )
+- 💻 Skilled in **MERN Stack, Java ** (MongoDB, Express.js, React, Node.js,java , python )
 - 🌱 Exploring **Cloud, DevOps, and System Design**
 - ♟️ Chess enthusiast – I believe strategy in chess is like writing clean, efficient code
 - 🎤 Passionate about **public speaking & knowledge sharing**
